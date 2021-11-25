@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lowpoly Medical Room
+* source:	https://sketchfab.com/3d-models/lowpoly-medical-room-616dbedad00e4ff9982d336035d6987a
+* author:	SantyFrow (https://sketchfab.com/santyfrow)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lowpoly Medical Room" (https://sketchfab.com/3d-models/lowpoly-medical-room-616dbedad00e4ff9982d336035d6987a) by SantyFrow (https://sketchfab.com/santyfrow) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
