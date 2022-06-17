@@ -1,0 +1,32 @@
+Se inicia el proceso de generación de w y evaluacion
+selec = OCR_14x14.gz
+# b a E k Ete 
+#------- --- --- --- --- ---------
+100000.0    100.0   0 140 
+selec = expressions.gz
+# b a E k Ete 
+#------- --- --- --- --- ---------
+100000.0     10.0   0  86 
+selec = gauss2D.gz
+# b a E k Ete 
+#------- --- --- --- --- ---------
+100000.0    100.0 1236 200 
+selec = gender.gz
+# b a E k Ete 
+#------- --- --- --- --- ---------
+100000.0    100.0   0  71 
+selec = iris.gz
+# b a E k Ete 
+#------- --- --- --- --- ---------
+100000.0 100000.0   0  20 
+selec = news.gz
+# b a E k Ete 
+#------- --- --- --- --- ---------
+ 10000.0    100.0 13936 200 
+selec = videos.gz
+# b a E k Ete 
+#------- --- --- --- --- ---------
+ 10000.0 100000.0 1608 200 
+
+Se acaba el proceso de generación de w y evaluacion
+ 
