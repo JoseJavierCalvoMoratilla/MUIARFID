@@ -1,0 +1,19 @@
+# adaptacion a RASA v3 del codigo en 
+# https://github.com/jaimeteb/tutoriales-rasa-es
+recipe: default.v1
+language: es
+
+pipeline:
+  - name: SpacyNLP
+    model: es_core_news_md
+  - name: "SpacyTokenizer"
+  - name: "SpacyFeaturizer"
+  - name: "DIETClassifier"
+    entity_recognition: False
+    epochs: 50
+
+policies:
+  - name: TEDPolicy
+  - name: MemoizationPolicy
+  - name: RulePolicy
+#  - name: MappingPolicy

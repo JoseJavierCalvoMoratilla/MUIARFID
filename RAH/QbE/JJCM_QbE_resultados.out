@@ -1,0 +1,66 @@
+
+Se lee el fichero corto...
+Se lee el fichero largo...
+Los ficheros han sido cargados...
+Se calcula la matriz de distancias...
+Las dimensiones de la matriz de distancias son:  (52, 250000)
+Fila:  1  de:  51
+Fila:  2  de:  51
+Fila:  3  de:  51
+Fila:  4  de:  51
+Fila:  5  de:  51
+Fila:  6  de:  51
+Fila:  7  de:  51
+Fila:  8  de:  51
+Fila:  9  de:  51
+Fila:  10  de:  51
+Fila:  11  de:  51
+Fila:  12  de:  51
+Fila:  13  de:  51
+Fila:  14  de:  51
+Fila:  15  de:  51
+Fila:  16  de:  51
+Fila:  17  de:  51
+Fila:  18  de:  51
+Fila:  19  de:  51
+Fila:  20  de:  51
+Fila:  21  de:  51
+Fila:  22  de:  51
+Fila:  23  de:  51
+Fila:  24  de:  51
+Fila:  25  de:  51
+Fila:  26  de:  51
+Fila:  27  de:  51
+Fila:  28  de:  51
+Fila:  29  de:  51
+Fila:  30  de:  51
+Fila:  31  de:  51
+Fila:  32  de:  51
+Fila:  33  de:  51
+Fila:  34  de:  51
+Fila:  35  de:  51
+Fila:  36  de:  51
+Fila:  37  de:  51
+Fila:  38  de:  51
+Fila:  39  de:  51
+Fila:  40  de:  51
+Fila:  41  de:  51
+Fila:  42  de:  51
+Fila:  43  de:  51
+Fila:  44  de:  51
+Fila:  45  de:  51
+Fila:  46  de:  51
+Fila:  47  de:  51
+Fila:  48  de:  51
+Fila:  49  de:  51
+Fila:  50  de:  51
+Fila:  51  de:  51
+
+Resultados:
+##################################
+El Origen es:  12675.0
+El destino es:  12726
+El coste es:  0.007232777168118943
+La longitud del camino es:  51.0
+##################################
+

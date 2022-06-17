@@ -1,0 +1,58 @@
+intents:
+  - saludo
+  - despedida
+  - afirmar
+  - negar
+  - humor_bien
+  - humor_mal
+  - reto_bot
+  - activar_luz
+  - desactivar_luz
+  - activar_clima
+  - desactivar_clima
+  - consultar_temp
+  - abrir_casa
+  - cerrar_casa
+
+responses:
+
+  utter_saludo:
+  - text: "¡Hola Xavier, un gusto verle de nuevo! Qué necesita?"
+
+  utter_despedida:
+  - text: "Adiós Xavier."
+
+  utter_soy_un_bot:
+  - text: "Soy un bot, Rasa es mi motor."
+
+  utter_luz_activada:
+  - text: "La luz ha sido activada."
+
+  utter_luz_desactivada:
+  - text: "La luz ha sido desactivada."
+
+  utter_clima_activado:
+  - text: "El clima ha sido activado."
+
+  utter_clima_desactivado:
+  - text: "El clima ha sido desactivado."
+
+  utter_temperatura_amb:
+  - text: "La temperatura es de 24.5ºC."
+
+  utter_casa_abierta:
+  - text: "La puerta de casa se ha desbloqueado y se ha desconectado la alarma."
+
+  utter_casa_cerrada:
+  - text: "La puerta de casa se bloqueado y se ha conectado la alarma."
+
+  utter_perfecto_dispara:
+  - text: "Perfecto! Dispara."
+
+  utter_algo_mas:
+  - text: "Necesita algo más, Xavier?"
+
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

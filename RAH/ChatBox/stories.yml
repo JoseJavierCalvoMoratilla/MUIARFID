@@ -1,0 +1,99 @@
+stories:
+
+- story: saludo
+  steps:
+  - intent: saludo
+  - action: utter_saludo
+  - checkpoint: after_saludo
+
+- story: Activacion luz
+  steps:  
+  - checkpoint: after_saludo
+  - intent: activar_luz
+  - action: utter_luz_activada
+  - action: utter_algo_mas
+  - checkpoint: fin1
+
+- story: Desactivacion luz
+  steps:
+  - checkpoint: after_saludo
+  - intent: desactivar_luz
+  - action: utter_luz_desactivada
+  - action: utter_algo_mas
+  - checkpoint: fin2
+
+- story: Activación clima
+  steps:
+  - checkpoint: after_saludo
+  - intent: activar_clima
+  - action: utter_clima_activado
+  - action: utter_algo_mas
+  - checkpoint: fin3
+
+- story: Desactivación clima
+  steps:
+  - checkpoint: after_saludo
+  - intent: desactivar_clima
+  - action: utter_clima_desactivado
+  - action: utter_algo_mas
+  - checkpoint: fin4
+
+- story: Consulta temperatura
+  steps:
+  - checkpoint: after_saludo
+  - intent: consultar_temp
+  - action: utter_temperatura_amb
+  - action: utter_algo_mas
+  - checkpoint: fin5
+
+- story: Abrir casa
+  steps:
+  - checkpoint: after_saludo
+  - intent: abrir_casa
+  - action: utter_casa_abierta
+  - action: utter_algo_mas
+  - checkpoint: fin6
+
+- story: Cerrar casa
+  steps:
+  - checkpoint: after_saludo
+  - intent: cerrar_casa
+  - action: utter_casa_cerrada
+  - action: utter_algo_mas
+  - checkpoint: fin7
+
+- story: reto bot  
+  steps:
+  - checkpoint: after_saludo
+  - intent: reto_bot
+  - action: utter_soy_un_bot
+  - action: utter_algo_mas
+  - checkpoint: fin8
+
+- story: algo más1 
+  steps:
+  - checkpoint: fin1
+  - checkpoint: fin2
+  - checkpoint: fin3
+  - checkpoint: fin4
+  - checkpoint: fin5
+  - checkpoint: fin6
+  - checkpoint: fin7
+  - checkpoint: fin8
+  - intent: afirmar
+  - action: utter_perfecto_dispara
+  - checkpoint: after_saludo
+
+
+- story: no más1
+  steps:
+  - checkpoint: fin1
+  - checkpoint: fin2
+  - checkpoint: fin3
+  - checkpoint: fin4
+  - checkpoint: fin5
+  - checkpoint: fin6
+  - checkpoint: fin7
+  - checkpoint: fin8
+  - intent: negar
+  - action: utter_despedida

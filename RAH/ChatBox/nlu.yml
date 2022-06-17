@@ -1,0 +1,115 @@
+language: es
+nlu:
+- intent: saludo
+  examples: |
+        - hola
+        - Hola hola
+        - Buenas tardes
+        - Buenos Días!
+        - Qué tal
+        - qué hay
+        - vamos
+        - hola amigo
+        - hey
+        - qué onda
+        - buendía
+        - buenastardes
+        - Hola
+        - saludos
+
+- intent: despedida
+  examples: |
+        - hasta luego
+        - Adiós
+        - bye
+        - despedida
+        - nos vemos
+        - que tenga un buen día
+        - adiós adios
+        - nos vemos después
+        - salu2
+        - bye bye
+        - hasta pronto
+
+- intent: afirmar
+  examples: |
+        - sí
+        - si claro
+        - por supuesto
+        - ok
+        - afirmativo
+        - así es
+        - sin duda
+
+- intent: negar
+  examples: |
+        - No
+        - para nada
+        - no me gusta
+        - Nunca
+        - Claro que no
+        - jamás
+        - no no no
+
+- intent: reto_bot
+  examples: |
+        - Eres un robot?
+        - ¿eres un bot?
+        - Eres humano?
+        - ¿estoy hablando con un bot?
+        - estoy hablando con una persona?
+
+- intent: activar_luz
+  examples: |
+        - Activar la luz
+        - Quiero activar la luz
+        - Quiero encender la luz
+        - Poner la luz en marcha
+        - Luz en on
+        - Enchufar la luz
+        - Encender la luz
+
+- intent: desactivar_luz
+  examples: |
+        - Desactivar la luz
+        - Quiero desactivar la luz
+        - Poner la luz en parada
+        - Luz en off
+        - Desenchufar la luz
+        - Apagar la luz
+
+- intent: activar_clima
+  examples: |
+        - Activar el clima
+        - Quiero activar el clima
+        - Poner el clima en marcha
+        - Clima en on
+        - Enchufar el clima
+        - Encender el clima
+        - Encender el aire
+
+- intent: desactivar_clima
+  examples: |
+        - Desactivar el clima
+        - Quiero desactivar el clima
+        - Poner el clima en parada
+        - Clima en off
+        - Desenchufar el clima
+        - Apagar el clima 
+        - Apagar el aire
+
+- intent: consultar_temp
+  examples: |
+        - Qué temperatura hace?
+        - Cuál es la temperatura ambiente?
+        - A cuántos grados estamos?
+
+- intent: abrir_casa
+  examples: |
+        - Abrir casa
+        - Modo noche
+
+- intent: cerrar_casa
+  examples: |
+        - Cerrar casa
+        - Modo noche
