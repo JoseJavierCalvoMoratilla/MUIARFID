@@ -6,15 +6,15 @@ Some works in the Master's Degree in Artificial Intelligence, Pattern Recognitio
 Each device has an assigned ID:
 | ID | Nombre Asignatura |
 | ------------- | ------------- |
-| ALC [ALC](./ALC) | Aplicaciones de Lingüística computacional |
-| ARF  | Aplicaciones de Reconocimiento de Formas |
-| BIOM  | Biometría |
-| CNB  | Computación Natural |
-| GPC  | Gráficos por Computador  |
-| HAIA | Herramientas y Aplicaciones de la Inteligencia Artificial (Soon...) |
-| LC  | Lingüística Computacional  |
-| PEE  | Predicción Estructurada Estadística |
-| PIN  | Planificación Inteligente (Soon...)  |
-| RAH  | Reconocimiento del Habla  |
-| RFA  | Reconocimiento de Formas  |
-| SMA  | Sistemas Multiagente (Soon...)  |
+| [ALC](./ALC) | Aplicaciones de Lingüística computacional |
+| [ARF](./ARF)  | Aplicaciones de Reconocimiento de Formas |
+| [BIOM](./BIOM)  | Biometría |
+| [CNB](./CNB)  | Computación Natural |
+| [GPC](./GPC)  | Gráficos por Computador  |
+| [HAIA](./HAIA) | Herramientas y Aplicaciones de la Inteligencia Artificial (Soon...) |
+| [LC](./LC)  | Lingüística Computacional  |
+| [PEE](./PEE)  | Predicción Estructurada Estadística |
+| [PIN](./PIN)  | Planificación Inteligente (Soon...)  |
+| [RAH](./RAH)  | Reconocimiento del Habla  |
+| [RFA](./RFA)  | Reconocimiento de Formas  |
+| [SMA](./SMA)  | Sistemas Multiagente (Soon...)  |
