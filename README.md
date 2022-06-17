@@ -6,7 +6,7 @@ Some works in the Master's Degree in Artificial Intelligence, Pattern Recognitio
 Each device has an assigned ID:
 | ID | Nombre Asignatura |
 | ------------- | ------------- |
-| ALC  | Aplicaciones de Lingüística computacional |
+| ALC [ALC](./ALC) | Aplicaciones de Lingüística computacional |
 | ARF  | Aplicaciones de Reconocimiento de Formas |
 | BIOM  | Biometría |
 | CNB  | Computación Natural |
