@@ -16,3 +16,4 @@ Some works in the Master's Degree in Artificial Intelligence, Pattern Recognitio
 | [RAH](./RAH)  | Reconocimiento del Habla  |
 | [RFA](./RFA)  | Reconocimiento de Formas  |
 | [SMA](./SMA)  | Sistemas Multiagente (Soon...)  |
+| [VPC](./VPC)  | Visión por Computador  |
